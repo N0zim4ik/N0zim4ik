@@ -10,7 +10,7 @@
 ![Figma](https://img.shields.io/badge/-FIgma-090909?style=for-the-badge&logo=figma&logoColor=47C5FB)
 
 ### Contact me
-![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=47C5FB)(https://t.me/ugu_7)
-![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)(https://www.instagram.com/nazim4ik_mks/)
-![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=vk&logoColor=4F7Db#)(https://vk.com/maks_top_2004)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=47C5FB)](https://t.me/ugu_7)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/nazim4ik_mks/)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=vk&logoColor=4F7Db#)](https://vk.com/maks_top_2004)
 
